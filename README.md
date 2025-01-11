@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @heppps
-- 👀 I’m interested in anime and computers
-- 🌱 I’m currently learning high school
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me hepps is my normal @
+
